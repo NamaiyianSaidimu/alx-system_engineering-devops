@@ -19,3 +19,5 @@
 9-firstdirdeletion - A script that deletes the directory /tmp/my_first_directory/.
 
 10-back - A script that changes the working directory to the previous one.
+
+11-lists - A script that lists all files in the current directory, its parent directory and the /boot directory, including the hidden files.
