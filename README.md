@@ -1,1 +1,1 @@
-This repository is for the purpose of learning the basics of the shell.
+This repository is for the purpose of creating shell scripts to perform dofferent functions on our computer
