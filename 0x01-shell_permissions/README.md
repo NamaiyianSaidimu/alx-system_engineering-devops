@@ -18,4 +18,6 @@
 
 9-John_Doe - A script that sets the mode of the file hello to -rwxr-x-wx.
 
-10-mirror_permissions - A script that changes the permissions of a file named hello to those of a file named olleh which are rw-rw-r--.
+10-mirror_permissions - A script that changes the permissions of a file named hello to those of a file named olleh, which is in the current directory.
+
+11-directories_permissions - A script that adds execute permissions to all subdirectories of the current directory for the owner, the group owner and the other users. Regular files should remain unchanged.
