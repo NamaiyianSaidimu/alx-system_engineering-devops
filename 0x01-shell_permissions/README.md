@@ -13,3 +13,5 @@
 6-multiple_permissions - A script that adds execute permission to the owner and the group owner, and read permission to the other users to the file hello.
 
 7-everybody - A script that adds execution permission to the owner, the group owner and the other users to the file hello.
+
+8-James_Bond - A script that gives no permissions to the owner and group owners, but all permissions to other users.
