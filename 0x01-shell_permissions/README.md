@@ -17,3 +17,5 @@
 8-James_Bond - A script that gives no permissions to the owner and group owners, but all permissions to other users.
 
 9-John_Doe - A script that sets the mode of the file hello to -rwxr-x-wx.
+
+10-mirror_permissions - A script that changes the permissions of a file named hello to those of a file named olleh which are rw-rw-r--.
